@@ -9,6 +9,9 @@ const resources = {
   en: {
     translation: translationEN
   },
+  es: {
+    translation: translationEN
+  },
 };
 
 i18n
@@ -16,7 +19,7 @@ i18n
   .use(reactI18nextModule) // passes i18n down to react-i18next
   .init({
     resources,
-    fallbackLng: "es", // use en if detected lng is not available
+    fallbackLng: "en", // use en if detected lng is not available
 
     keySeparator: false, // we do not use keys in form messages.welcome
 
