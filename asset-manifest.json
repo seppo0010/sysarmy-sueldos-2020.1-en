@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sysarmy-sueldos-2020.1-en/static/css/main.095e5f73.chunk.css",
+    "main.js": "/sysarmy-sueldos-2020.1-en/static/js/main.1b348203.chunk.js",
+    "main.js.map": "/sysarmy-sueldos-2020.1-en/static/js/main.1b348203.chunk.js.map",
+    "runtime-main.js": "/sysarmy-sueldos-2020.1-en/static/js/runtime-main.8a54276c.js",
+    "runtime-main.js.map": "/sysarmy-sueldos-2020.1-en/static/js/runtime-main.8a54276c.js.map",
+    "static/js/2.571e151c.chunk.js": "/sysarmy-sueldos-2020.1-en/static/js/2.571e151c.chunk.js",
+    "static/js/2.571e151c.chunk.js.map": "/sysarmy-sueldos-2020.1-en/static/js/2.571e151c.chunk.js.map",
+    "index.html": "/sysarmy-sueldos-2020.1-en/index.html",
+    "precache-manifest.63be1ac9d6db7e5bdda12cc18eec83b7.js": "/sysarmy-sueldos-2020.1-en/precache-manifest.63be1ac9d6db7e5bdda12cc18eec83b7.js",
+    "service-worker.js": "/sysarmy-sueldos-2020.1-en/service-worker.js",
+    "static/css/main.095e5f73.chunk.css.map": "/sysarmy-sueldos-2020.1-en/static/css/main.095e5f73.chunk.css.map",
+    "static/js/2.571e151c.chunk.js.LICENSE.txt": "/sysarmy-sueldos-2020.1-en/static/js/2.571e151c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a54276c.js",
+    "static/js/2.571e151c.chunk.js",
+    "static/css/main.095e5f73.chunk.css",
+    "static/js/main.1b348203.chunk.js"
+  ]
+}
